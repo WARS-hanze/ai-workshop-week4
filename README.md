@@ -20,7 +20,8 @@ Anaconda is a powerful environment / package management tool that is widely used
 Now, after installing anaconda, run the program `anaconda powershell prompt`. The resulting screen should display something similar to this: `(base) PS C:\Users\Steven Warmelink>`. In this terminal, run the following commands in succession:
 
 0. Get the repository
-Download this repository (either clone the repository or download and extract the zip). Run anaconda powershell prompt in the folder that contains the repository files, or start anaconda powershell prompt and move there using `cd'. 
+
+Download [this repository](https://github.com/WARS-hanze/ai-workshop-week4/tree/master) (either clone the repository or download and extract the zip). Run anaconda powershell prompt in the folder that contains the repository files, or start anaconda powershell prompt and move there using `cd'. 
 
 1. Create the conda environment and install the required packages
 ```
